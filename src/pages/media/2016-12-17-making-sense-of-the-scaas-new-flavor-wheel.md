@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: I tried a dozen stress-relief snacks, tinctures and teas. So why am I still anxious?
-date: January 14, 2019
+date: 2017-01-04T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
