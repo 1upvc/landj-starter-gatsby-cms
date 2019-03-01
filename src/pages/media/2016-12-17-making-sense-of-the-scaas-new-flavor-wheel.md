@@ -11,6 +11,8 @@ tags:
 
 ![truongwp](/img/truongwp.jpg)
 
+January 14, 2019
+
 The reasons I’m stressed out are your reasons, too: too little time, and even less money. Deadlines. Relationships of all types. Aches and pains, insomnia. The general state of the world. It’s all a bit much, isn’t it?
 
 I could use a drink. Not that kind of a drink. No, the drinks I’ve found myself chugging as if I were a college freshman on spring break don’t have any booze, but they do have adaptogenic mushroom powder. Or cannabidiol, commonly known as CBD. Or L-Theanine.
@@ -21,4 +23,4 @@ Written By - Maura Judkis; Artist - Lan Truong for The Washington Post
 
 ## What the updates mean to you
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including.
+In our daily lives, we have a variety of key stressors.  Eating and purchasing goods that are natural and have a focus on stress relief could be an alternate path to bettering your mood and balancing your diet to take on the challenges of life.   
