@@ -10,9 +10,11 @@ tags:
 
 ![flavor wheel](/img/flavor_wheel.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+The reasons I’m stressed out are your reasons, too: too little time, and even less money. Deadlines. Relationships of all types. Aches and pains, insomnia. The general state of the world. It’s all a bit much, isn’t it?
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+I could use a drink. Not that kind of a drink. No, the drinks I’ve found myself chugging as if I were a college freshman on spring break don’t have any booze, but they do have adaptogenic mushroom powder. Or cannabidiol, commonly known as CBD. Or L-Theanine.
+
+They might be called Neuro Bliss or Zenify, or have names that issue directives: Get Happy or Just Chill. (Funny, because typically, ordering someone to “Just chill” has the opposite effect.) There are candies and brownies, too, all marketed as calming or anxiety-alleviating, with detailed explanations of how the herbal supplements, amino acids or compounds within can put us at ease. In the era of functional foods — where we eat not just for pleasure, but also to balance our gut flora and reduce inflammation — we expect what we eat and drink to heal our bodies. Now, we want it to soothe our troubled minds, too.  To continue reading this article, please navigate to the Washington Post [here](https://www.washingtonpost.com/news/voraciously/wp/2019/01/14/i-tried-a-dozen-stress-relief-snacks-tinctures-and-teas-so-why-am-i-still-anxious/?utm_term=.0d31aa0764ea).
 
 ## What the updates mean to you
 
