@@ -5,14 +5,11 @@ title: Our Fritter
 image: /img/Our-Fritter-Main.jpg
 heading: Our fritter with a bit of a kick
 description: >-
-  On the road from Bangalore to Mysore in South India there is a town called Maddur.  Here they make "vadas" or fritters of all sizes and variations.  Inspired by this and modern age needs, we infused our own cooking style and came up with our family recipe.  Our all natural fritter with great ingredients is made without any additives and is Made in the USA.  
+  On the road from Bangalore to Mysore in South India there is a town called Maddur.  Here they make "vadas" or fritters of all sizes and variations.  Inspired by this and modern age needs, we infused our own cooking style with a theme of spicy yet sweet and came up with our family recipe.  Our all natural fritter with great ingredients is made without any additives and is proudly Made in the USA.  
 
 heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    We strived to make the best all natural fritter without added preservatives and made in the USA.  Our ingredients include the following Rice Flour, All Purpose Flour, Cream of Wheat, Gram Flour, Onions, Green Chilis, Coriander Leaf, Salt, Sugar, Corn Oil, and Water.
 main:
   heading: An all natural fritter with great ingredients
   description: >
