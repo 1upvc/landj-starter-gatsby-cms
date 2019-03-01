@@ -3,17 +3,11 @@ templateKey: 'about-page'
 path: /about
 title: About L&J Foods
 ---
-### Family First
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided 
+### Origin
+L&J Family Foods was started by a mother and her son to simply explore if a family recipe for a fritter could be put on a shelf.  The mother told her son, "if you figure out how to get it on a shelf, I'll teach you how to make it." Through the joy of cooking together, we have a goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  These recipes have all have a human focus and are intended to bring joy and relief to the stresses of everyday life. They were passed in the best way possible: from mother to son with love. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Company Operations
+L&J Family Foods is a 1UP Ventures (1UPVC) company brand.  The company is based out of the State of Virginia in the United States of America. The brand of L&J Family Foods was established in 2018.  Operations are fully permitted by Fairfax County and the great State of Virginia.  All Rights Reserved ©2019.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Contact
+Interested in our food products or have any other questions? The best way to get a hold of us is by email at landjfoods@1upvc.com.
