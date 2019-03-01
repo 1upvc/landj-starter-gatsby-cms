@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: I tried a dozen stress-relief snacks, tinctures and teas. So why am I still anxious?
-date: 2019-01-14T01:00-500
+date: 2019-01-01T11:34:46Z
 description: The reasons I’m stressed out are your reasons, too
 tags:
   - stress relief
