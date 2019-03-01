@@ -7,7 +7,7 @@ class BlogRoll extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
-    
+
     return (
       <div className="columns is-multiline">
       {posts && (posts
@@ -66,7 +66,7 @@ export default () => (
             frontmatter {
               title
               templateKey
-              date(formatString: "MMMM DD, YYYY")
+              date
             }
           }
         }
