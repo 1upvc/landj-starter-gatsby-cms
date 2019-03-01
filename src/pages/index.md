@@ -1,8 +1,8 @@
 ---
 templateKey: 'index-page'
-title: 'Great tasting'
+title: 'Great Tasting Fritters'
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: An all natural spicy indian family fritter recipe
 subheading: Support sustainable farming while enjoying a cup
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
