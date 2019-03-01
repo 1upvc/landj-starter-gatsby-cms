@@ -65,11 +65,9 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Where to get Junie's Spicy Fritter?
+  heading: Interested in Junie's Spicy Fritter?
   description: >-
-    We are striving to make it easy to make fritters a part of your life.  L&J Family Foods proudly partners with a set of local and state organizations. You can find our delicious snack at the following store locations of our partners below:
-
-    Don't worry, online ordering is coming your way soon enough.  Can't wait? email us at [landjfoods@1upvc.com](landjfoods@1upvc.com) and payment info.
+    fffff
 
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
