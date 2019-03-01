@@ -11,8 +11,6 @@ tags:
 
 ![truongwp](/img/truongwp.jpg)
 
-January 14, 2019 -
-
 The reasons I’m stressed out are your reasons, too: too little time, and even less money. Deadlines. Relationships of all types. Aches and pains, insomnia. The general state of the world. It’s all a bit much, isn’t it?
 
 I could use a drink. Not that kind of a drink. No, the drinks I’ve found myself chugging as if I were a college freshman on spring break don’t have any booze, but they do have adaptogenic mushroom powder. Or cannabidiol, commonly known as CBD. Or L-Theanine.
