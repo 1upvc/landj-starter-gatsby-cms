@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: I tried a dozen stress-relief snacks, tinctures and teas. So why am I still anxious?
 date: 2019-01-14T01:00-500
-description: The reasons I’m stressed out are your reasons, too: too little time, and even less money. Deadlines. Relationships of all types. Aches and pains, insomnia. The general state of the world. It’s all a bit much, isn’t it?
+description: The reasons I’m stressed out are your reasons, too
 tags:
   - Baked goods
   - Alternative Foods
