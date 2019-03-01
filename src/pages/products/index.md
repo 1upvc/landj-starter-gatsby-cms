@@ -3,35 +3,11 @@ templateKey: 'product-page'
 path: /products
 title: Our Fritter
 image: /img/Our-Fritter-Main.jpg
-heading: A fritter with a bit of a kick
+heading: Our fritter with a bit of a kick
 description: >-
-  On the road from Bangalore to Mysore in South India there is a town called Maddur.  
-intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        Our family recipe has brought the best from a small town of Maddur
-    - image: /img/GoldenFry-Feature.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/GoldenBrown.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/Visible-Packaging.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+  On the road from Bangalore to Mysore in South India there is a town called Maddur.  Here they make "vadas" or fritters of all sizes and variations.  Inspired by this and modern age needs, we infused our own cooking style and came up with our family recipe.  Our all natural fritter with great ingredients is made without any additives and is Made in the USA.  
+
+heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -49,7 +25,7 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/Fritterbasketfull.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
