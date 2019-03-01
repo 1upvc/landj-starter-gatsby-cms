@@ -1,16 +1,13 @@
 ---
 templateKey: 'index-page'
-title: 'Great Tasting Fritters'
-image: /img/home-jumbotron.jpg
-heading: An all natural spicy indian family fritter recipe
-subheading: Support sustainable farming while enjoying a cup
+title: 'L&J Family Foods'
+image: /img/home-raju-gpk-653258-main.jpg
+heading: An all natural spicy fritter
+subheading: Traditionally from India. Made in the USA
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  L&J Family Foods was started by a mother and her son to simply explore if a family recipe for a fritter could be put on a store shelf.  The mother told her son, "if you figure out how to get it on a shelf, I'll teach you how to make it." Through the joy of cooking together, we have a goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  These recipes have all have a human focus and are intended to bring joy and relief to the stresses of everyday life. They were passed in the best way possible: from mother to son with love.
 mainpitch:
-  title: Why Kaldi
+  title: Why L&J Family Foods
   description: >
       Kaldi is the coffee store for everyone who believes that
       great coffee shouldn't just taste good, it should do good
