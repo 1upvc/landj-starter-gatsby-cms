@@ -2,10 +2,11 @@
 templateKey: blog-post
 title: I tried a dozen stress-relief snacks, tinctures and teas. So why am I still anxious?
 date: 2017-01-04T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: The reasons I’m stressed out are your reasons, too: too little time, and even less money. Deadlines. Relationships of all types. Aches and pains, insomnia. The general state of the world. It’s all a bit much, isn’t it?
 tags:
-  - flavor
-  - tasting
+  - stress relief
+  - baked goods
+  - alternatives
 ---
 
 ![truongwp](/img/truongwp.jpg)
