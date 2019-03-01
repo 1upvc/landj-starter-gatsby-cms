@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: I tried a dozen stress-relief snacks, tinctures and teas. So why am I still anxious?
+date: 2019-01-14T01:00-500
 description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 tags:
   - flavor
@@ -16,8 +16,7 @@ I could use a drink. Not that kind of a drink. No, the drinks I’ve found mysel
 
 They might be called Neuro Bliss or Zenify, or have names that issue directives: Get Happy or Just Chill. (Funny, because typically, ordering someone to “Just chill” has the opposite effect.) There are candies and brownies, too, all marketed as calming or anxiety-alleviating, with detailed explanations of how the herbal supplements, amino acids or compounds within can put us at ease. In the era of functional foods — where we eat not just for pleasure, but also to balance our gut flora and reduce inflammation — we expect what we eat and drink to heal our bodies. Now, we want it to soothe our troubled minds, too.  To continue reading this article, please navigate to the Washington Post [here](https://www.washingtonpost.com/news/voraciously/wp/2019/01/14/i-tried-a-dozen-stress-relief-snacks-tinctures-and-teas-so-why-am-i-still-anxious/?utm_term=.0d31aa0764ea).
 
-By - Maura Judkis
-Artist - Lan Truong for The Washington Post
+Written By - Maura Judkis; Artist - Lan Truong for The Washington Post
 
 ## What the updates mean to you
 
