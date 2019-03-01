@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: I tried a dozen stress-relief snacks, tinctures and teas. So why am I still anxious?
-date: January 14, 2019
+date:
 description: The reasons I’m stressed out are your reasons, too
 tags:
   - stress relief
@@ -10,6 +10,8 @@ tags:
 ---
 
 ![truongwp](/img/truongwp.jpg)
+
+January 14, 2019 -
 
 The reasons I’m stressed out are your reasons, too: too little time, and even less money. Deadlines. Relationships of all types. Aches and pains, insomnia. The general state of the world. It’s all a bit much, isn’t it?
 
