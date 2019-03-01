@@ -12,4 +12,4 @@ L&J Family Foods is a 1UP Ventures (1UPVC) company brand.  Operations are based 
 All Rights Reserved ©2019.
 
 ### Contact Us
-Interested in our food products or have any other questions? The best way to get a hold of us is by email at [landjfoods@1upvc.com](landjfoods@1upvc.com).
+Interested in our food products, have any other questions, or simply want to drop us a line? The best way to get a hold of us is by email at [landjfoods@1upvc.com](landjfoods@1upvc.com).  We'd love to hear from you!
