@@ -66,7 +66,7 @@ export default () => (
             frontmatter {
               title
               templateKey
-              date
+              date(formatString: "MMMM DD, YYYY")
             }
           }
         }
