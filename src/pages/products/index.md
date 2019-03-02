@@ -46,11 +46,11 @@ main:
   description: >
     We strived to make the best all natural fritter without added preservatives and made in the USA.  Our ingredients include the following Rice Flour, All Purpose Flour, Cream of Wheat, Gram Flour, Onions, Green Chilis, Coriander Leaf, Salt, Sugar, Corn Oil, and Water.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Fresh chilis
+    image: /img/Chilis.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Fresh Dough
+    image: /img/freshdough.jpg
   image3:
     alt: Fritterbasketfull
     image: /img/Fritterbasketfull.jpg
