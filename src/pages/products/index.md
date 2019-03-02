@@ -13,8 +13,8 @@ intro:
         Mixing Batter
     - image: /img/balls.png
       text: >
-        Balls
-    - image: /img/GoldenFryFeature.png
+        Fritter Balls
+    - image: /img/GoldenFry-Feature.png
       text: >
         Frying
     - image: /img/GoldenBrown.png
