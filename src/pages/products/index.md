@@ -80,5 +80,5 @@ pricing:
         - Boxed securely and shipping cost based upon location
         - Subscription available upon request
       plan: On-Demand
-      price: '3.50'
+      price: '3.54'
 ---
