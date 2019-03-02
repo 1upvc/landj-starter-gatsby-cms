@@ -3,6 +3,8 @@ templateKey: 'about-page'
 path: /shop
 title: Shop
 ---
+![Our-Fritter-Main](/img/Our-Fritter-Main.jpg)
+
 ### Finding Our Fritter
 We are striving to make it easy to make our fritters a part of your life through good partners.  L&J Family Foods proudly partners with a set of local and state businesses. You can find our delicious snack at the following store locations of our partners below:
 
