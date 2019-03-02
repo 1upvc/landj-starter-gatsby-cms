@@ -74,11 +74,11 @@ pricing:
         - Availability dependent on vendor
       plan: Local Store
       price: 'By Vendor'
-    - description: Online is coming soon for convenience to your doorstep. Can't wait, contact us!  See details on our shop section.
+    - description: Online ordering is coming soon for convenience to your doorstep. Can't wait, contact us!  See details on our shop section.
       items:
         - Net wt. 2.65 oz (75.1g) per unit
         - Boxed securely and shipping cost based upon location
         - Subscription available upon request
-      plan: Online
+      plan: On-Demand
       price: '3.50'
 ---
