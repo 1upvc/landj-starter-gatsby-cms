@@ -235,14 +235,7 @@ export const productPageQuery = graphql`
             }
           }
         }
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
+    
           }
         }
       }
