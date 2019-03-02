@@ -60,5 +60,20 @@ testimonials:
   - author:
     quote: >
 full_image: /img/products-full-width.jpg
-
+pricing:
+  heading:  >
+  description: >
+  plans:
+    - description:
+      items: >
+      plan: >
+      price: >
+    - description:
+      items:  >
+      plan:  >
+      price: >
+    - description:
+      items:  >
+      plan:  >
+      price:  >
 ---
