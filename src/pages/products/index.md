@@ -55,29 +55,25 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Anonymous
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      I just called to tell you how great your Maddur Vada [fritter] is and how excited I am each time I am at the store.  I always pick one up.  
+  - author: Anonymous
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      The crunchy outside yet soft inside is a great touch especially with teh chilis.  They sneak up on you in the most happy and pleasant manner.
 full_image: /img/Our-Fritter-Main.jpg
 pricing:
   heading: Interested in Junie's Spicy Fritter?
-  description: >-
-    fffff
-
+  description: >
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: Local Store
       price: 'By Vendor'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+    - description: Online is coming soon for convenience to your doorstep. Can't wait, contact us!  See details on our shop page.
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
