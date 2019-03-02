@@ -1,6 +1,6 @@
 ---
 templateKey: 'index-page'
-title: 'L&J Family Foods'
+title: ' L&J Family Foods'
 image: /img/Fritterbasketfull.jpg
 heading: An all natural spicy fritter
 subheading: Family Recipes from India. Made in the USA
