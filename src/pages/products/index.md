@@ -57,7 +57,7 @@ main:
 testimonials:
   - author: Anonymous
     quote: >-
-      I just called to tell you how great and natural your Maddur Vada [fritter] is and how excited I am each time I have one from the store.
+      I just called to tell you how great and natural your Maddur Vada [fritter] is and how excited I am each time I have one.    
   - author: Anonymous
     quote: >-
       The crunchy outside yet soft inside is a great touch especially with the chilis.  They sneak up on you in the most happy and pleasant manner.
@@ -71,15 +71,15 @@ pricing:
     - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
         - Net wt. 2.65 oz (75.1g) per unit
-        - Sales tax may apply. VA (6%)
-        - One or two varieties of beans"
+        - Sales tax may apply
+        - Availability dependent on vendor
       plan: Local Store
       price: 'By Vendor'
     - description: Online is coming soon for convenience to your doorstep. Can't wait, contact us!  See details on our shop section.
       items:
         - Net wt. 2.65 oz (75.1g) per unit
         - Boxed securely and shipping cost based upon location
-        - Sales tax may apply
+        - Subscription available upon request
       plan: Online
       price: '3.50'
 ---
