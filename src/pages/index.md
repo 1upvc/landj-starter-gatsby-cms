@@ -7,13 +7,8 @@ subheading: Family Recipes from India. Made in the USA
 description: >-
   L&J Family Foods was started by a mother and her son for the joy of cooking together and with a larger goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  These recipes have all have a human focus and are intended to bring joy and relief to the stresses of everyday life. They were passed in the best way possible: from mother to son with love.
 mainpitch:
-  title: Why L&J Family Foods
-  description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+  title: An all natural spicy fritter
+  
 intro:
   blurbs:
     - image: /img/coffee.png
