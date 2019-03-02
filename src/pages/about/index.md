@@ -8,6 +8,8 @@ L&J Family Foods is a family venture, started by a mother (Latha) and her son (J
 
 Through the joy of cooking together as a family, we have a goal of bringing delicious ethnic naturally made family snacks recipes to a modern age.  Our first main product is Junie's Spicy Fritter which has traces to a small town of Maddur, in the state of Karnataka, India.  Recipes like these have all have a human focus, strive for naturalness, and are intended to bring joy and relief to the stresses of everyday life. The recipes and cooking techniques were passed in the best way possible: from mother to son with love.
 
+![home-raju-gpk-653258-main](/img/home-raju-gpk-653258-main.jpg)
+
 ### Food Operations
 L&J Family Foods is a 1UP Ventures (1UPVC) company brand.  Operations are based out of the State of Virginia in the United States of America. The brand conception of L&J Family Foods was established in 2018.  The company is fully permitted by Fairfax County and the great State of Virginia.  
 
