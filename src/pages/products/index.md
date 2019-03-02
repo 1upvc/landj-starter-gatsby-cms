@@ -55,25 +55,10 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: 
+  - author:
     quote: >
   - author:
     quote: >
 full_image: /img/products-full-width.jpg
-pricing:
-  heading:  >
-  description: >
-  plans:
-    - description:
-      items: >
-      plan: >
-      price: >
-    - description:
-      items:  >
-      plan:  >
-      price: >
-    - description:
-      items:  >
-      plan:  >
-      price:  >
+
 ---
