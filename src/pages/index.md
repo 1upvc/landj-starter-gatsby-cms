@@ -8,7 +8,7 @@ description: >-
   L&J Family Foods was started by a mother and her son for the joy of cooking together and with a larger goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  These recipes have all have a human focus and are intended to bring joy and relief to the stresses of everyday life. They were passed in the best way possible: from mother to son with love.
 mainpitch:
   title: An all natural spicy fritter
-  
+  description: >
 intro:
   blurbs:
     - image: /img/coffee.png
