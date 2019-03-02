@@ -8,25 +8,18 @@ description: >-
   On the road from Bangalore to Mysore in South India there is a town called Maddur.  
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/batter-mix.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Mixing Batter
+    - image: /img/balls.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Balls
+    - image: /img/GoldenFryFeature.png
+      text: >
+        Frying
     - image: /img/GoldenBrown.png
       text: >
-        Golden brown fritters
-    - image: /img/meeting-space.png
-      text: >
-        Packaged
+        Golden Brown
   heading: What we offer
   description: >
     "Naturalness"
