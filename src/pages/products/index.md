@@ -1,5 +1,5 @@
 ---
-templateKey: 'product-page2'
+templateKey: 'product-page'
 path: /products
 title: Our Fritter
 image: /img/Fritterbasketfull.jpg
