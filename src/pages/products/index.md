@@ -61,19 +61,19 @@ testimonials:
     quote: >
 full_image: /img/products-full-width.jpg
 pricing:
-  heading:
+  heading:  >
   description: >
   plans:
     - description:
-      items:
-      plan:
-      price:
+      items: >
+      plan: >
+      price: >
     - description:
-      items:
-      plan:
-      price:
+      items:  >
+      plan:  >
+      price: >
     - description:
-      items:
-      plan:
-      price:
+      items:  >
+      plan:  >
+      price:  >
 ---
