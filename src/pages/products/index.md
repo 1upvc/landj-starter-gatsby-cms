@@ -29,7 +29,7 @@ main:
     We strived to make the best all natural fritter without added preservatives and made in the USA.  Our ingredients include the following Rice Flour, All Purpose Flour, Cream of Wheat, Gram Flour, Onions, Green Chilis, Coriander Leaf, Salt, Sugar, Corn Oil, and Water.
   image1:
     alt: Fresh chilis
-    image: /img/Chilis.png
+    image: /img/Chilis.jpg
   image2:
     alt: Fresh Dough
     image: /img/freshdough.jpg
@@ -52,15 +52,15 @@ pricing:
     - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
         - Net wt. 2.65 oz (75.1g) per unit
-        - Sales tax may apply
-        - Availability dependent on vendor
+        - Sales tax may apply dependent on state
+        - Availability dependent on vendor inventory
       plan: Local Store
       price: 'By Vendor'
-    - description: Online ordering is coming soon for convenience to your doorstep. Can't wait, contact us!  See details on our shop section.
+    - description: On-Demand - Contact Us or Order Online (Coming soon).  See instructions under Shop section.
       items:
         - Net wt. 2.65 oz (75.1g) per unit
-        - Boxed securely and shipping cost based upon location
-        - Subscription available upon request
+        - Shipping cost and taxes based upon location and/or provider
+        - Subscription upon request
       plan: On-Demand
       price: '3.54'
 ---
