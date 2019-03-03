@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Fritter
+title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: A fritter with a bit of a kick
 description: >-
