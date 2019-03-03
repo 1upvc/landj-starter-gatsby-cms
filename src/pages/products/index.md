@@ -56,7 +56,7 @@ pricing:
         - Availability dependent on vendor inventory
       plan: Local Store
       price: 'By Vendor'
-    - description: On-Demand - Contact Us or Order Online (Coming soon).  See instructions under Shop section.
+    - description: On-Demand - Contact Us or Order Online (Coming soon).  See instructions under our shop section.
       items:
         - Net wt. 2.65 oz (75.1g) per unit
         - Shipping cost and taxes based upon location and/or provider
