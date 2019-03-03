@@ -5,7 +5,7 @@ title: Our Fritter
 image: /img/Fritterbasketfull.jpg
 heading: A fritter with a bit of a kick
 description: >-
-  On the road from Bangalore to Mysore in South India there is a town called Maddur. Our simple process brings complex ingredients and technique together to make our wonderful fritters. 
+  On the road from Bangalore to Mysore in South India there is a town called Maddur. Our simple process brings complex ingredients and technique together to make our wonderful fritters.
 intro:
   blurbs:
     - image: /img/batter-mix.png
@@ -29,7 +29,7 @@ main:
     We strived to make the best all natural fritter without added preservatives and made in the USA.  Our ingredients include the following Rice Flour, All Purpose Flour, Cream of Wheat, Gram Flour, Onions, Green Chilis, Coriander Leaf, Salt, Sugar, Corn Oil, and Water.
   image1:
     alt: Fresh chilis
-    image: /img/Chilis.jpg
+    image: /img/Chilis.png
   image2:
     alt: Fresh Dough
     image: /img/freshdough.jpg
