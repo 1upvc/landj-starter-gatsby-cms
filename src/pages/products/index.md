@@ -39,7 +39,7 @@ main:
 testimonials:
   - author: Anonymous
     quote: >-
-      I just called to tell you how great and natural your Maddur Vada [fritter] is and how excited I am each time I have one.    
+      I just called to tell you how great and natural your fritter is and how excited I am each time I have one.    
   - author: Anonymous
     quote: >-
       The crunchy outside yet soft inside is a great touch especially with the chilis.  They sneak up on you in the most happy and pleasant manner.
