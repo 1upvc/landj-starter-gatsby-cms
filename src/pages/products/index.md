@@ -47,7 +47,7 @@ full_image: /img/Our-Fritter-Main.jpg
 pricing:
   heading: Interested in purchasing Junie's Spicy Fritter?
   description: >-
-    We offer two ways to get your hands our delicious and lovable fritter: In-Store and Online.
+    We offer two ways to get your hands our delicious and lovable fritter: In-Store and On-Demand.
   plans:
     - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
