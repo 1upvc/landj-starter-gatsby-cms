@@ -3,7 +3,7 @@ templateKey: 'index-page'
 title: 'L&J Family Foods'
 image: /img/Fritterbasketfull.jpg
 heading: An all natural spicy fritter
-subheading: Family Recipes from India. Made in the USA
+subheading: Family Snacks inspired by India. Made in the USA
 description: >-
   L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  We took a family recipe of a fritter that we loved and decided that its important to share this unique product with our friends and local community.  
 mainpitch:
