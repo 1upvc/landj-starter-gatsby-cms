@@ -5,21 +5,21 @@ title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: A fritter with a bit of a kick
 description: >-
-  Meet our lovable all natural vegetarian fritter. Our process brings complex ingredients and techniques together to make our wonderful fritters.
+  Meet our lovable all natural vegetarian fritter. Some background - On the road to Bangalore to Mysore, there is a small town of Maddur off the expressway.  Here they make "Maddur Vadas" - fritters that are off all shapes, sizes, ingredients, and proportions.  Our family recipe was inspired by this small town and then optimized for the modern age consumption.  Our process brings complex ingredients and techniques together to make our wonderful fritters.
 intro:
   blurbs:
     - image: /img/batter-mix.png
       text: >
-        Origin: On the road to Bangalore to Mysore, there is a small town of Maddur off the expressway.  Here they make "Maddur Vadas" - fritters that are off all shapes, sizes, ingredients, and proportions.  Our family recipe was inspired by this small town and then optimized for the modern age consumption.
-    - image: /img/batter-mix.png
+        Our unique family proportioned mix creates a spicy yet sweet flavoring that becomes suitable for formulating a full batter.
+    - image: /img/freshdough.png
       text: >
-        Our unique
+        With a bit of proportioned water and mixing, we create a stable batter that is ready to be transformed into the appropriate size and shape for frying.
     - image: /img/GoldenFry-Feature.png
       text: >
-        Golden Frying
+        Fritters are fried to a golden brown crisp to ensure that crunchy outside with soft chewy inside as you make your way to the middle.  
     - image: /img/GoldenBrown.png
       text: >
-        Golden Brown
+        The results of our process and techniques is an enjoyable shelf stable fritter that is vegetarian (and vegan) and that can be shared with our local community, partners, and at events (e.g., sports, concerts).
   heading: What we offer
   description: >
     "Naturalness"
