@@ -51,14 +51,14 @@ pricing:
   plans:
     - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
-        - Net wt. 2.65 oz (75.1g) per unit
+        - Avg. Net wt. 2.41 oz (68.3g) per unit
         - Sales tax may apply dependent on state
         - Availability dependent on vendor inventory
       plan: Local Store
       price: 'By Vendor'
     - description: On-Demand - Contact Us or Order Online (Coming soon).  See instructions under our shop section.
       items:
-        - Net wt. 2.65 oz (75.1g) per unit
+        - Avg. Net wt. 2.41 oz (68.3g) per unit
         - Shipping cost and taxes based upon location and/or provider
         - Subscription upon request
       plan: On-Demand
