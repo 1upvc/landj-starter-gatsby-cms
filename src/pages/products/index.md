@@ -19,7 +19,7 @@ intro:
         Fritters are fried to a golden brown crisp to ensure that crunchy outside with soft chewy inside as you make your way to the middle.  
     - image: /img/GoldenBrown.png
       text: >
-        The results of our process and techniques is an enjoyable shelf stable fritter that is vegetarian (and vegan) and that can be shared with our local community, partners, and at events (e.g., sports, concerts).
+        The results of our process and techniques is an enjoyable shelf stable fritter that is vegetarian and that can be shared with our local community, partners, and at events (e.g., sports, concerts).
   heading: What we offer
   description: >
     "Naturalness"
