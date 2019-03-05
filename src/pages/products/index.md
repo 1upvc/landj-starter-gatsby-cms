@@ -5,7 +5,7 @@ title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: A fritter with a bit of a kick
 description: >-
-  Meet our lovable all natural vegetarian fritter. Some background - On the road to Bangalore to Mysore, there is a small town of Maddur off the expressway.  Here they make "Maddur Vadas" - fritters that are off all shapes, sizes, ingredients, and proportions.  Our family recipe was inspired by this small town and then optimized for the modern age consumption.  Our process brings complex ingredients and techniques together to make our wonderful fritters.
+  Meet our lovable all natural vegetarian fritter. Our process brings complex ingredients and techniques together to make our wonderful fritters.
 intro:
   blurbs:
     - image: /img/batter-mix.png
