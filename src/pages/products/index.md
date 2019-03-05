@@ -5,15 +5,15 @@ title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: A fritter with a bit of a kick
 description: >-
-  On the road from Bangalore to Mysore in South India there is a town called Maddur. Our simple process brings complex ingredients and technique together to make our wonderful fritters.
+  Meet our lovable all natural vegetarian fritter. Our simple process brings complex ingredients and technique together to make our wonderful fritters.
 intro:
   blurbs:
     - image: /img/batter-mix.png
       text: >
-        Mixing Batter
-    - image: /img/balls.png
+        Origin: On the road to Bangalore to Mysore, there is a small town of Maddur off the expressway.  Here they make "Maddur Vadas" - fritters that are off all shapes, sizes, ingredients, and proportions.  Our family recipe was inspired by this small town and then optimized for the modern age consumption.
+    - image: /img/batter-mix.png
       text: >
-        Fritter Balls
+        Our unique
     - image: /img/GoldenFry-Feature.png
       text: >
         Golden Frying
