@@ -64,7 +64,7 @@ const Navbar = class extends React.Component {
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://www.instagram.com"
+                href="https://instagram.com"
                 target="_blank"
                 rel="noopener noreferrer"
               >
