@@ -5,7 +5,7 @@ title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: A fritter with a bit of a kick
 description: >-
-  Meet our lovable all natural vegetarian fritter. Our simple process brings complex ingredients and technique together to make our wonderful fritters.
+  Meet our lovable all natural vegetarian fritter. Our process brings complex ingredients and techniques together to make our wonderful fritters.
 intro:
   blurbs:
     - image: /img/batter-mix.png
