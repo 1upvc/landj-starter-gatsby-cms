@@ -13,16 +13,16 @@ intro:
   blurbs:
     - image: /img/INDIAicon.png
       text: >
-        There is a lot of interesting all natural vegetarian and vegan food snacks globally to discover that bring joy and relief to every day.  L&J Family Foods started with where our family is from: India.
+        There is a lot of interesting all natural vegetarian and vegan food snacks globally to discover that bring joy and relief to every day.  Our family is from is from India, and we want to bring great tasting snacks to local communities in the USA.
     - image: /img/mother-son.png
       text: >
-        Through the love between mother and son, each all natural snack is passed down and inspired by our family recipes.  They have been brought to life for joyful consumption for the modern age and most importantly Made in the USA.
-    - image: /img/GoldenFry-Feature.png
+        Through the love between mother and son, each all natural snack is inspired by our family recipes and the geographical region they originated from.  They have been brought to life for joyful consumption and proudly Made in the USA.
+    - image: /img/mixing-icon.png
       text: >
-        Golden Frying
-    - image: /img/GoldenBrown.png
+        We strive to mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.
+    - image: /img/Snack.png
       text: >
-        Golden Brown
+        The results are all natural vegetarian and vegan products that are packaged and enjoyable for modern age snack consumption.
 main:
   heading: Great coffee with no compromises
   description: >
