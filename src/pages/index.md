@@ -11,12 +11,12 @@ mainpitch:
   description: >
 intro:
   blurbs:
-    - image: /img/batter-mix.png
+    - image: /img/INDIAicon.png
       text: >
-        Mixing Batter
-    - image: /img/balls.png
+        There is a lot of interesting all natural vegetarian and vegan food snacks globally to discover that bring joy and relief to every day.  L&J Family Foods started with where our family is from: India.
+    - image: /img/mother-son.jpg
       text: >
-        Fritter Balls
+        Through the love between mother and son, each all natural snack is passed down and inspired by our family recipes.  They have been brought to life for joyful consumption for the modern age and most importantly Made in the USA.
     - image: /img/GoldenFry-Feature.png
       text: >
         Golden Frying
