@@ -6,7 +6,7 @@ title: Legal
 
 
 ### TERMS OF USE, PRIVACY POLICY AND RETURN GUIDANCE OVERVIEW
-This website, www.landjfamilyfoods.com is operated by L&J Family Foods, a 1UP Ventures (1UPVC) brand (the “Site”). Throughout the Site, the terms “L&J”, “1UPVC”, “L&J Family Foods”, “Junie’s Spicy Fritter”, “Our Fritter”, “we”, “us” and “our” or other similar references refers to L&J Family Foods of the State of Virginia.  L&J Family Foods is affiliated brand of 1UP Ventures.
+This website, www.landjfamilyfoods.com is operated by L&J Family Foods, a 1UP Ventures (1UPVC) brand (the “Site”). Throughout the Site, the terms “L&J”, “1UPVC”, “L&J Family Foods”, “Junie”, "Junie's",“Junie’s Spicy Fritter”, “Our Fritter”, “we”, “us” and “our” or other similar references refers to L&J Family Foods (includes L&J Foods) of the State of Virginia.  L&J Family Foods is affiliated brand of 1UP Ventures LLC.
 
 By using this website and/or purchasing something from us, including all information, tools and services available from this site, collectively the “Services”, you, the “User”, acknowledge that you have read and understood, and agree to be bound by, these Terms of Use and our Privacy Policy (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content. If you do not agree with these Terms of Use and our Privacy Policy, you should not use the Services.
 
