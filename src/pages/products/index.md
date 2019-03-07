@@ -10,7 +10,7 @@ intro:
   blurbs:
     - image: /img/batter-mix.png
       text: >
-        Our unique family proportioned mix creates a spicy yet sweet flavoring that becomes suitable for formulating a full batter.
+        Our unique family proportioned mix creates a wonderful flavoring that becomes suitable for formulating a full batter.
     - image: /img/freshdough.jpg
       text: >
         With a bit of proportioned water and mixing, we create a stable batter that is ready to be transformed into the appropriate size and shape for frying.
