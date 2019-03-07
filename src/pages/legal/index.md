@@ -3,9 +3,9 @@ templateKey: 'about-page'
 path: /legal
 title: Legal
 ---
-![Our-Fritter-Main](/img/Our-Fritter-Main.jpg)
 
-### Finding Our Fritter
+
+### TERMS OF USE, PRIVACY POLICY AND RETURN GUIDANCE OVERVIEW
 We are striving to make it easy to make our fritters a part of your life through good partners.  L&J Family Foods proudly partners with a set of local and state businesses. You can find our delicious snack at the following store locations of our partners below:
 
 ### Shop Locally in VA with Our Partners or Event
