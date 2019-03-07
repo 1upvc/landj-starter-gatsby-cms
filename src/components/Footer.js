@@ -41,7 +41,7 @@ const Footer = class extends React.Component {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      ©2019 All Rights Reserved 
+                      ©2019 All Rights Reserved
                     </a></li>
                     </ul>
                   </section>
@@ -91,10 +91,10 @@ const Footer = class extends React.Component {
                   style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="vimeo" href="https://linkedin.com">
                   <img
-                  src={vimeo}
-                  alt="Vimeo"
+                  src={linkedin}
+                  alt="LinkedIn"
                   style={{ width: '1em', height: '1em' }}
                   />
                 </a>
