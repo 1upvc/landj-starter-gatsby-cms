@@ -5,7 +5,7 @@ image: /img/Fritterbasketfull.jpg
 heading: An all natural spicy fritter
 subheading: Family Snacks inspired by India. Made in the USA
 description: >-
-  L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  We took a family recipe of a fritter that we loved and decided that its important to share this unique product with our friends and local community.  
+  L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  We took a family recipe of a natural fritter that we loved and decided that its important to share this unique product with our friends and local community.  
 mainpitch:
   title: >
   description: >
@@ -19,10 +19,10 @@ intro:
         Through the love between mother and son, each all natural snack is inspired by our family recipes and the geographical region they originated from.  They have been brought to life for joyful consumption and proudly Made in the USA.
     - image: /img/mixing-icon.png
       text: >
-        We strive to mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.
+        With our fritter and other products, we strive to mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.
     - image: /img/Snack.png
       text: >
-        The results are all natural vegetarian and vegan products that are packaged and enjoyable for modern age snack consumption.  They typically pair really well with your favorite beverages.
+        The results are all natural vegetarian and vegan products that are packaged and enjoyable for modern age snack consumption.  They typically pair really well with your favorite beverages and sauces.
 main:
   heading: Great coffee with no compromises
   description: >
