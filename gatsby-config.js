@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'L&J Family Foods',
     description:
-      'This repo serves as an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'L&J Family Foods is a family venture started by a mother and son to bring all natural ethnically inspired snacks to the local community.  All food is proudly Made in the USA',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
