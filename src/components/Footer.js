@@ -41,7 +41,7 @@ const Footer = class extends React.Component {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Admin
+                      ©2019 All Rights Reserved 
                     </a></li>
                     </ul>
                   </section>
@@ -57,6 +57,11 @@ const Footer = class extends React.Component {
                   <li>
                     <Link className="navbar-item" to="/shop">
                       Shop
+                    </Link>
+                  </li>
+                  <li>
+                    <Link className="navbar-item" to="/legal">
+                      Legal
                     </Link>
                   </li>
                   </ul>
