@@ -43,7 +43,7 @@ testimonials:
   - author: Anonymous
     quote: >-
       The crunchy outside yet soft inside is a great touch especially with the chilis.  They sneak up on you in the most happy and pleasant manner.
-full_image: /img/Our-Fritter-Main.jpg
+full_image: /img/products-full-width.jpg
 pricing:
   heading: Interested in purchasing Junie's Spicy Fritter?
   description: >-
