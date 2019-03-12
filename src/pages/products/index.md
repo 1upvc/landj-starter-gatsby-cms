@@ -5,7 +5,7 @@ title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: Junie's Spicy Fritter
 description: >-
-  Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved these fritters and with his mom at L&J Family Foods has brought them to share with local and state communities.  Our delicious fritters can be found in a variety of different contexts and complement your other favorite beverages and sauces.
+  Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved his mom's fritters and together at L&J Family Foods we strive to share with local and state communities.  Our delicious fritters can be found in a variety of different contexts and complement your other favorite beverages and sauces.
 intro:
   blurbs:
     - image: /img/batter-mix.png
