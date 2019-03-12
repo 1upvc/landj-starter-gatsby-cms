@@ -2,6 +2,7 @@
 templateKey: 'about-page'
 path: /shop
 title: Shop
+full_image: /img/products-full-width.jpg
 ---
 
 ### Finding Our Fritter
