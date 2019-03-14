@@ -62,5 +62,5 @@ pricing:
         - Shipping cost and taxes based upon location and/or provider
         - Subscription upon request
       plan: On-Demand
-      price: '3.54'
+      price: '3.95'
 ---
