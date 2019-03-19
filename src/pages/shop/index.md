@@ -22,4 +22,4 @@ Norms Beer & Wine - [Page](http://normsbeerandwine.com/) | [Map](https://www.goo
 ### Shop Online
 Don't worry, online ordering is coming your way soon enough.  
 
-Can't wait? Email us at [landjfamilyfoods@1upvc.com](landjfamilyfoods@1upvc.com) and we'll follow up to coordinate your order, payment and shipping with you personally.  We offer a subscription plan upon request as well.
+Can't wait? Email us at [landjfamilyfoods@1upvc.com](landjfamilyfoods@1upvc.com) and we'll follow up to coordinate your order, payment and shipping with you personally.  Please note, there is a minimum order of four packaged units placed direct with our team.  We offer a subscription plan upon request as well.
