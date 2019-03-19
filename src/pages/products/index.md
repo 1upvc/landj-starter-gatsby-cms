@@ -5,15 +5,15 @@ title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
 heading: Junie's Spicy Fritter
 description: >-
-  Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved his mom's fritters and together at L&J Family Foods we strive to share with local and state communities.  Our delicious fritters can be found in a variety of different contexts and complement your other favorite beverages and sauces.
+  Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved his mom's fritters and together.  Together at L&J Family Foods they strived to share this natural treat with local communities.
 intro:
   blurbs:
-    - image: /img/batter-mix.png
+    - image: /img/onion.png
       text: >
-        Our unique family proportioned mix creates a wonderful flavoring that becomes suitable for formulating a full batter.
-    - image: /img/freshdough.jpg
+        Our family strives to use all fresh ingredients to achieve our natural taste and the strengths of each ingredient such as the water content within onions.
+    - image: /img/batter-mix.jpg
       text: >
-        With a bit of proportioned water and mixing, we create a stable batter that is ready to be transformed into the appropriate size and shape for frying.
+        Our unique family proportioned mix creates a wonderful flavoring that becomes suitable for formulating a full batter.  With the right amount of mixing, we create a stable batter ready to be transformed.
     - image: /img/GoldenFry-Feature.png
       text: >
         Fritters are fried to a golden brown crisp to ensure that crunchy outside with soft chewy inside as you make your way to the middle.  
@@ -31,8 +31,8 @@ main:
     alt: Fresh chilis
     image: /img/Chilis.jpg
   image2:
-    alt: Fresh Dough
-    image: /img/freshdough.jpg
+    alt: Fresh Dough New
+    image: /img/batter-new.jpg
   image3:
     alt: Fritterbasketfull
     image: /img/Fritterbasketfull.jpg
