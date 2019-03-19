@@ -11,9 +11,9 @@ intro:
     - image: /img/onion.jpg
       text: >
         Our family strives to use all fresh ingredients to achieve our natural taste and the strengths of each ingredient such as the water content within onions.
-    - image: /img/batter-mix.jpg
+    - image: /img/batter-new-2.jpg
       text: >
-        Our unique family proportioned mix creates a wonderful flavoring that becomes suitable for formulating a full batter.  With the right amount of mixing, we create a stable batter ready to be transformed.
+        Our unique family proportioned mix creates a wonderful flavoring that becomes suitable for formulating a full rich batter ready to be transformed into fritters.
     - image: /img/GoldenFry-Feature.png
       text: >
         Fritters are fried to a golden brown crisp to ensure that crunchy outside with soft chewy inside as you make your way to the middle.  
