@@ -8,7 +8,7 @@ description: >-
   Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved his mom's fritters and together.  Together at L&J Family Foods they strived to share this natural treat with local communities.
 intro:
   blurbs:
-    - image: /img/onion.png
+    - image: /img/onion.jpg
       text: >
         Our family strives to use all fresh ingredients to achieve our natural taste and the strengths of each ingredient such as the water content within onions.
     - image: /img/batter-mix.jpg
