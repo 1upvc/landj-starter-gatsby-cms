@@ -16,13 +16,13 @@ intro:
         There is a lot of interesting all natural vegetarian and vegan food snacks globally to discover that bring joy and relief to every day.  Our family is from India, and we aim to bring great tasting snacks to local communities in the USA.
     - image: /img/mother-son.png
       text: >
-        Through the love between mother and son, each all natural snack is inspired by our family recipes and the geographical region they originated from.  They have been brought to life for joyful consumption and proudly Made in the USA.
+        Through the love between mother and son, each all natural snack is inspired by our family style cooking and the geographical region they originated from.  They have been brought to life for joyful consumption and proudly Made in the USA.
     - image: /img/mixing-icon.png
       text: >
-        With our fritter and other products, we strive to mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.
+        We started with our fritter, where mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.
     - image: /img/Snack.png
       text: >
-        The results are all natural vegetarian and vegan products that are packaged and enjoyable for modern age snack consumption.  They typically pair really well with your favorite beverages and sauces.
+        The results are all natural vegetarian and vegan products that are shelf stable and pair really well with your favorite beverages and sauces in a variety of different contexts.
 main:
   heading: Great coffee with no compromises
   description: >
