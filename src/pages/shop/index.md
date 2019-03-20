@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
+templateKey: 'about-page'
 path: /shop
 title: Shop
-image: /products-full-width.jpg
-heading: Shop Junie's Spicy Fritter
+full_image: /img/products-full-width.jpg
 ---
 
 ### Finding Our Fritter
