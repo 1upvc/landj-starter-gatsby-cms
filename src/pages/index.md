@@ -20,7 +20,7 @@ intro:
     - image: /img/mixing-icon.png
       text: >
         We started with our fritter, where mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.
-    - image: /img/vfcirclelogo.jpg
+    - image: /img/vfcirclelogo.png
       text: >
         The results are all natural vegetarian and vegan snacks that pair really well with your favorite beverages and sauces.  Best part is they are of the finest quality.
 main:
