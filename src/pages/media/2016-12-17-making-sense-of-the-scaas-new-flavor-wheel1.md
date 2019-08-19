@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Tackling the 'taste-health paradox': Indian snack manufacturers advised to focus on health, nutrition and 'Indian-ness'
+title: Tackling the taste-health paradox, Indian snack manufacturers advised to focus on health, nutrition and Indian-ness
 date: 2019-04-16T11:34:46Z
 description: Snack manufacturers in India have been advised to take a health and wellness approach to appeal to local customers
 tags:
