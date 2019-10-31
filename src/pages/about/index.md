@@ -15,5 +15,15 @@ L&J Family Foods is a 1UP Ventures (1UPVC) company brand.  Operations are based 
 
 All Rights Reserved ©2019.
 
+### Local & State partners
+We proudly collaborate with a set of local and state partners who continuously contribute to our success. These include the following:
+
+Virginia Department of Agriculture & safety
+Virginia's Finest Program
+Vienna Business Association
+Aditi Spice Depot
+Norm's Beer & Wine
+Bard's Alley
+
 ### Contact Us
 Interested in our food products, have any other questions, or simply want to drop us a line? The best way to get a hold of us is by email at [landjfamilyfoods@1upvc.com](landjfamilyfoods@1upvc.com).  We'd love to hear from you!
