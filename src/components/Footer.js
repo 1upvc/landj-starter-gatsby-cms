@@ -69,7 +69,7 @@ const Footer = class extends React.Component {
                 </div>
                 <div className="column is-4 social">
                 </a>
-                  <a title="twitter" href="https://vimeo.com/landjfamilyfoods">
+                  <a title="vimeo" href="https://vimeo.com/landjfamilyfoods">
                   <img
                     className="fas fa-lg"
                     src={vimeo}
