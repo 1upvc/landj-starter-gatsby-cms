@@ -3,9 +3,9 @@ templateKey: 'index-page'
 title: 'L&J Family Foods'
 image: /img/ribbonbitsfull.jpg
 heading: Our story
-subheading: Family Snacks inspired by India. Made in the USA
+subheading: Food Snacks for the Modern Age.  Made in the USA.
 description: >-
-  L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious ethnic family snacks recipes to a naturally focused modern age.  We took our secret family recipes that we loved and decided that its important to share this unique product with our friends and local community.  
+  L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious family snacks recipes to a naturally inclined modern age.  We took our secret family recipes that we loved and decided that its important to share our unique product with our friends and local community.  We provide healthy alternatives by focusing on vegan and gluten free products.  We make junk food appealing for the modern age.
 mainpitch:
   title: >
   description: >
@@ -19,7 +19,7 @@ intro:
         Through the love between mother and son, each all natural snack is inspired by our family style cooking and the geographical region they originated from.  They have been brought to life for joyful consumption.
     - image: /img/mixing-icon.png
       text: >
-        We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and/or gluten free with our secret receipe and techniques.
+        We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and/or gluten free with our best in class methods.
     - image: /img/vfcirclelogo.png
       text: >
         The results are all natural vegetarian and vegan snacks that pair really well with your favorite beverages and sauces.  Best part is they are of the finest special quality foods and proudly Made in the U.S.A.
