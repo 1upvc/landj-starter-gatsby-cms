@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'L&J Family Foods'
-image: /img/Fritterbasketfull.jpg
+image: /img/ribbonbitsfull.jpg
 heading: Our story
 subheading: Family Snacks inspired by India. Made in the USA
 description: >-
@@ -19,7 +19,7 @@ intro:
         Through the love between mother and son, each all natural snack is inspired by our family style cooking and the geographical region they originated from.  They have been brought to life for joyful consumption.
     - image: /img/mixing-icon.png
       text: >
-        We mix and prep with natural ingredients and cook without any additives.  We use natural preservatives and techniques that have been passed down through generations with love.  We strive to make each of our snacks vegan and/or gluten free.
+        We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and/or gluten free with our secret receipe and techniques.
     - image: /img/vfcirclelogo.png
       text: >
         The results are all natural vegetarian and vegan snacks that pair really well with your favorite beverages and sauces.  Best part is they are of the finest special quality foods and proudly Made in the U.S.A.
