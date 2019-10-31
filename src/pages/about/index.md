@@ -4,9 +4,9 @@ path: /about
 title: About L&J Family Foods
 ---
 ### Family Venture
-L&J Family Foods is a family venture, started by a mother (Latha) and her son (Junie) to simply explore if a family fritter recipe could be put on a store shelf.  The mother told her son, "if you figure out and convince a store for shelf space, I'll teach you how to make it."
+L&J Family Foods is a family venture, started by a mother (Latha) and her son (Junie) to simply explore if a family fritter recipe and other lovable snacks could be put on a store shelf.  The mother told her son, "if you figure out and convince a store for shelf space, I'll teach you how to make it."
 
-Through the joy of cooking together as a family, we have a goal of bringing delicious ethnic naturally made family snacks recipes to a modern age.  Our first main product is Junie's Spicy Fritter which was inspired by a small town of Maddur, in the state of Karnataka, India.  Inspried natural recipes like these have all have a human focus, strive for naturalness, and are intended to bring joy and relief to the stresses of everyday life. The recipes and cooking techniques were passed in the best way possible: from mother to son with love.
+Through the joy of cooking together as a family, we have a goal of bringing delicious ethnic naturally made family snacks recipes to a modern age.  Inspired natural recipes, have vegan and/or gluten free focus, and are intended to bring joy and relief to the stresses of everyday life. The recipes and cooking techniques were passed in the best way possible: from mother to son with love.
 
 ![family](/img/family.jpg)
 
