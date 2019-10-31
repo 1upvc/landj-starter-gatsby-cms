@@ -17,9 +17,9 @@ intro:
     - image: /img/mother-son.png
       text: >
         Through the love between mother and son, each all natural snack is inspired by our family style cooking and the geographical region they originated from.  They have been brought to life for joyful consumption.
-    - image: /img/mixing-icon.png
+    - image: /img/mixingicon.png
       text: >
-        We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and/or gluten free with our best in class methods.
+        We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and gluten free with our best in class methods.
     - image: /img/vfcirclelogo.png
       text: >
         The results are all natural vegetarian and vegan snacks that pair really well with your favorite beverages and sauces.  Best part is they are of the finest special quality foods and proudly Made in the U.S.A.
