@@ -5,7 +5,7 @@ title: Our Lovable Bits
 image: /img/RibbonBitsFull2.jpg
 heading: Junie's Ribbon Bits & How to Eat Them
 description: >-
-  Meet our lovable all natural vegan and gluten free ribbon bits. Junie has always loved his mom's ribbon bits.  Together at L&J Family Foods we've strived to share this natural treat with local communities.
+  Meet our lovable all natural vegan and gluten free ribbon bits. They've got just right amount of crunch and spice with long lasting enjoyment.  At L&J, we focus on making a lovable snack for the modern age.   
 intro:
   blurbs:
     - image: /img/vfcirclelogo.jpg
@@ -13,10 +13,10 @@ intro:
         Our ribbon bits are of the finest special quality foods, and are vegan and gluten free. Our bits are proudly Made in the U.S.A.
     - image: /img/beer-wine-glass-icon.jpg
       text: >
-        While certainly wonderful on their own, they can happily be paired with your favorite beverages and be a great party snack for friends and family.
+        While certainly wonderful on their own, our crunchy and spicy bits can happily be paired with your favorite beverages and be a great party snack for friends and family.
     - image: /img/soupicon.png
       text: >
-        Our friends and family helped us discover other food pairings such as with hot soups and salads.  And it hasn't stopped there.  
+        Our friends and family helped us discover that our bits can be served with hot soups and salads.  And it hasn't stopped there.  
     - image: /img/aroundtheworld1.png
       text: >
         Take our enjoyable shelf stable ribbon bit to your next event (e.g., sports, concerts, music festivals), road trips, and anywhere your next adventure takes you.
