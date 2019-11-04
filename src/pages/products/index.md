@@ -8,7 +8,7 @@ description: >-
   Meet our lovable all natural vegan and gluten free ribbon bits. They've got just right amount of crunch and spice with long lasting enjoyment.  At L&J, we focus on making a lovable snack for the modern age.   
 intro:
   blurbs:
-    - image: /img/vfcirclelogo.jpg
+    - image: /img/vfcirclelogo.png
       text: >
         Our ribbon bits are of the finest special quality foods, and are vegan and gluten free. Our bits are proudly Made in the U.S.A.
     - image: /img/beer-wine-glass-icon.jpg
@@ -17,7 +17,7 @@ intro:
     - image: /img/soupicon.png
       text: >
         Our friends and family helped us discover that our bits can be served with hot soups and salads.  And it hasn't stopped there.  
-    - image: /img/aroundtheworld1.png
+    - image: /img/aroundtheworld1.jpg
       text: >
         Take our enjoyable shelf stable ribbon bit to your next event (e.g., sports, concerts, music festivals), road trips, and anywhere your next adventure takes you.
   heading: What we offer
