@@ -1,7 +1,7 @@
 ---
 templateKey: 'index-page'
 title: 'L&J Family Foods'
-image: /img/ribbonbitsfull.jpg
+image: /img/RibbonBitsFull2.jpg
 heading: Our story
 subheading: Food Snacks for the Modern Age.  Made in the USA.
 description: >-
@@ -22,7 +22,7 @@ intro:
         We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and gluten free with our best in class methods.
     - image: /img/vfcirclelogo.png
       text: >
-        The results are all natural vegetarian and vegan snacks that pair really well with your favorite beverages and sauces.  Best part is they are of the finest special quality foods and proudly Made in the U.S.A.
+        The results are all natural vegetarian and vegan snacks that pair really well with your favorite beverages, sauces, soups, and salads.  Best part is they are of the finest special quality foods and proudly Made in the U.S.A.
 main:
   heading: Great coffee with no compromises
   description: >
