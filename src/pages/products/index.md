@@ -59,8 +59,8 @@ pricing:
     - description: Online - Contact Us or Order Online (Coming soon in 2020).  See instructions under our shop section.
       items:
         - Avg. Net wt. 2.5 oz (70.8g) per unit
-        - Shipping cost and taxes based upon location
+        - Shipping and taxes based upon location
         - Subscription upon request
-      plan: On-Demand
-      price: '4.25'
+      plan: Online
+      price: '3.99'
 ---
