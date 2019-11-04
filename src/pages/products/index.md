@@ -31,11 +31,11 @@ main:
     alt: fryingbits1
     image: /img/fryingbits1.jpg
   image2:
-    alt: packagingbits1
-    image: /img/packagingbits1.jpg
+    alt: bitsupclose1
+    image: /img/bitsupclose1.jpg
   image3:
     alt: RibbonBitsFull2
-    image: /img/RibbonBitsFull2.jpg
+    image: /img/packagingbits1.jpg
 testimonials:
   - author: Anonymous
     quote: >-
@@ -43,7 +43,7 @@ testimonials:
   - author: Anonymous
     quote: >-
       As a vegan and gluten free option this is fantastic!  I love the travel size and enjoy pairing them with my favorite beverages.  
-full_image: /img/packagingbits1.jpg
+full_image: /img/RibbonBitsFull2.jpg
 pricing:
   heading: Interested in purchasing Junie's Ribbon Bits?
   description: >-
