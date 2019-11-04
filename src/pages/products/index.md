@@ -17,7 +17,7 @@ intro:
     - image: /img/soupicon.png
       text: >
         Our friends and family helped us discover that our bits can be served with hot soups and salads.  And it hasn't stopped there.  
-    - image: /img/aroundtheworld1.jpg
+    - image: /img/aroundtheworld1.png
       text: >
         Take our enjoyable shelf stable ribbon bit to your next event (e.g., sports, concerts, music festivals), road trips, and anywhere your next adventure takes you.
   heading: What we offer
