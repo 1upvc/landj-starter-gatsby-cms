@@ -1,66 +1,66 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Lovable Fritter
-image: /img/Fritterbasketfull.jpg
-heading: Junie's Spicy Fritter
+title: Our Lovable Bits
+image: /img/RibbonBitsFull2.jpg
+heading: Junie's Ribbon Bits & How to Eat Them
 description: >-
-  Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved his mom's fritters and together.  Together at L&J Family Foods they strived to share this natural treat with local communities.
+  Meet our lovable all natural vegan and gluten free ribbon bits. Junie has always loved his mom's ribbon bits.  Together at L&J Family Foods we've strived to share this natural treat with local communities.
 intro:
   blurbs:
-    - image: /img/onion.jpg
+    - image: /img/vfcirclelogo.jpg
       text: >
-        Our family strives to use all fresh ingredients to achieve our natural taste and the strengths of each ingredient such as the water content within onions.
-    - image: /img/batter-new-2.jpg
+        Our ribbon bits are of the finest special quality foods, and are vegan and gluten free. Our bits are proudly Made in the U.S.A.
+    - image: /img/beer-wine-glass-icon.jpg
       text: >
-        Our unique family proportioned mix creates a wonderful flavoring that becomes suitable for formulating a full rich batter ready to be transformed into fritters.
-    - image: /img/GoldenFry-Feature.png
+        While certainly wonderful on their own, they can happily be paired with your favorite beverages and be a great party snack for friends and family.
+    - image: /img/soupicon.png
       text: >
-        Fritters are fried to a golden brown crisp to ensure that crunchy outside with soft chewy inside as you make your way to the middle.  
-    - image: /img/GoldenBrown.png
+        Our friends and family helped us discover other food pairings such as with hot soups and salads.  And it hasn't stopped there.  
+    - image: /img/aroundtheworld1.png
       text: >
-        The results of our process and techniques is an enjoyable shelf stable fritter that is vegetarian and that can be shared with our local community, partners, and at events (e.g., sports, concerts).
+        Take our enjoyable shelf stable ribbon bit to your next event (e.g., sports, concerts, music festivals), road trips, and anywhere your next adventure takes you.
   heading: What we offer
   description: >
-    "Naturalness"
+    "A snack food for the modern age"
 main:
-  heading: An all natural fritter with great ingredients
+  heading: Vegan and gluten free ribbon bits for the modern age.
   description: >
-    We strived to make the best all natural fritter without added preservatives and made in the USA.  Our ingredients include the following Rice Flour, All Purpose Flour, Cream of Wheat, Gram Flour, Onions, Green Chilis, Coriander Leaf, Salt, Sugar, Corn Oil, and Water.
+    We strived to make the best ribbon bits and made in the USA.  Our ingredients include the following Rice Flour, Gram Flour, Canola Oil, Red Chili Powder, Salt and Water.
   image1:
-    alt: Fresh chilis
-    image: /img/Chilis.jpg
+    alt: fryingbits1
+    image: /img/fryingbits1.jpg
   image2:
-    alt: Fresh Dough New
-    image: /img/batter-new.jpg
+    alt: bitsupclose1
+    image: /img/bitsupclose1.jpg
   image3:
-    alt: Fritterbasketfull
-    image: /img/Fritterbasketfull.jpg
+    alt: RibbonBitsFull2
+    image: /img/RibbonBitsFull2.jpg
 testimonials:
   - author: Anonymous
     quote: >-
-      I just called to tell you how great and natural your fritter is and how excited I am each time I have one.    
+      I love your bits and find them so pleasant.  I've found myself also tossing them on my soups and salads.  They compliment the taste so well!  Thanks so much!    
   - author: Anonymous
     quote: >-
-      The crunchy outside yet soft inside is a great touch especially with the chilis.  They sneak up on you in the most happy and pleasant manner.
-full_image: /img/products-full-width.jpg
+      As a vegan and gluten free option this is fantastic!  I love the travel size and enjoy pairing them with my favorite beverages.  
+full_image: /img/packagingbits1.jpg
 pricing:
-  heading: Interested in purchasing Junie's Spicy Fritter?
+  heading: Interested in purchasing Junie's Ribbon Bits?
   description: >-
-    We offer two ways to get your hands our delicious and lovable fritter: In-Store and On-Demand.
+    We offer two ways to get your hands our delicious and lovable bits: In-Store and Online.
   plans:
     - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
-        - Avg. Net wt. 2.41 oz (68.3g) per unit
+        - Avg. Net wt. 2.5 oz (70.8g) per unit
         - Sales tax may apply dependent on state
         - Availability dependent on vendor inventory
       plan: Local Store
       price: 'By Vendor'
-    - description: On-Demand - Contact Us or Order Online (Coming soon).  See instructions under our shop section.
+    - description: Online - Contact Us or Order Online (Coming soon in 2020).  See instructions under our shop section.
       items:
-        - Avg. Net wt. 2.41 oz (68.3g) per unit
-        - Shipping cost and taxes based upon location and/or provider
+        - Avg. Net wt. 2.5 oz (70.8g) per unit
+        - Shipping cost and taxes based upon location
         - Subscription upon request
       plan: On-Demand
-      price: '3.95'
+      price: '4.25'
 ---
