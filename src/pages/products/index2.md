@@ -1,11 +1,11 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Lovable Ribbon Bits
+title: Our Lovable Fritter
 image: /img/Fritterbasketfull.jpg
-heading: Junie's Ribbon Bits
+heading: Junie's Spicy Fritter
 description: >-
-  Meet our lovable all natural vegetarian (and vegan) ribbon bits. Junie has always loved his mom's ribbon bits. Together at L&J Family Foods they strived to share this natural vegan and gluten free treat with local communities.
+  Meet our lovable all natural vegetarian (and vegan) fritter. Junie has always loved his mom's fritters and together.  Together at L&J Family Foods they strived to share this natural treat with local communities.
 intro:
   blurbs:
     - image: /img/onion.jpg
@@ -24,7 +24,7 @@ intro:
   description: >
     "Naturalness"
 main:
-  heading: An all natural ribbon bits with great ingredients
+  heading: An all natural fritter with great ingredients
   description: >
     We strived to make the best all natural fritter without added preservatives and made in the USA.  Our ingredients include the following Rice Flour, All Purpose Flour, Cream of Wheat, Gram Flour, Onions, Green Chilis, Coriander Leaf, Salt, Sugar, Corn Oil, and Water.
   image1:
