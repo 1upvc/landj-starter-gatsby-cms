@@ -11,7 +11,7 @@ intro:
     - image: /img/vfcirclelogo.png
       text: >
         Our ribbon bits are of the finest special quality foods, and are vegan and gluten free. Our bits are proudly Made in the U.S.A.
-    - image: /img/beer-wine-glass-icon.jpg
+    - image: /img/beer-wine-glass-icon.png
       text: >
         While certainly wonderful on their own, our crunchy and spicy bits can happily be paired with your favorite beverages and be a great party snack for friends and family.
     - image: /img/soupicon.png
