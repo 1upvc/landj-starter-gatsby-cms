@@ -31,8 +31,8 @@ main:
     alt: fryingbits1
     image: /img/fryingbits1.jpg
   image2:
-    alt: bitsupclose1
-    image: /img/bitsupclose1.jpg
+    alt: packagingbits1
+    image: /img/packagingbits1.jpg
   image3:
     alt: RibbonBitsFull2
     image: /img/RibbonBitsFull2.jpg
