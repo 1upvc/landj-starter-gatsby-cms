@@ -5,7 +5,7 @@ title: Our Lovable Bits
 image: /img/RibbonBitsFull2.jpg
 heading: Junie's Ribbon Bits & How to Eat Them
 description: >-
-  Meet our lovable all natural vegan and gluten free ribbon bits. They've got just right amount of crunch and spice with long lasting enjoyment.  At L&J, we focus on making a lovable snack for the modern age.   
+  Meet our lovable all natural vegan and gluten free ribbon bits. They've got just right amount of crunch and spice with long lasting enjoyment.  At L&J, we focus on making a snacks for the modern age.   
 intro:
   blurbs:
     - image: /img/vfcirclelogo.png
