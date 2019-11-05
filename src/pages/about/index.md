@@ -11,14 +11,14 @@ Through the joy of cooking together as a family, we have a goal of bringing deli
 ![family](/img/family.jpg)
 
 ### Food Operations
-L&J Family Foods is a 1UP Ventures (1UPVC) company brand.  Operations are based out of the State of Virginia in the United States of America. The brand conception of L&J Family Foods was established in 2018.  The company is fully permitted by Fairfax County and the great State of Virginia.  Operations are currently located at 2305 Malraux Drive Vienna, VA 22182.
+L&J Family Foods is a 1UP Ventures (1UPVC) company brand.  Operations are based out of the State of Virginia in the United States of America. The brand conception of L&J Family Foods was established in 2018.  The company is fully permitted by Fairfax County and the great State of Virginia.  Operations are currently located in Vienna, VA.
 
 All Rights Reserved ©2019.
 
 ### Local & State partners
 We proudly collaborate with a set of local and state partners who continuously contribute to our success. These include the following:
 
-Virginia Department of Agriculture & Safety - [Page](https://www.vdacs.virginia.gov/) 
+Virginia Department of Agriculture & Safety - [Page](https://www.vdacs.virginia.gov/)
 
 Virginia's Finest Program - [Page](http://www.vdacs.virginia.gov/vafinest.com/)
 
