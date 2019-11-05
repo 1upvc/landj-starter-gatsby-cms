@@ -5,7 +5,7 @@ image: /img/RibbonBitsFull2.jpg
 heading: Our story
 subheading: Food Snacks for the Modern Age.  Made in the USA.
 description: >-
-  L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious family snacks recipes to a naturally inclined modern age.  We took our secret family recipes that we loved and decided that its important to share our unique product with our friends and local community.  We provide healthy alternatives by focusing on vegan and gluten free products.  We make junk food appealing for the modern age.
+  L&J Family Foods was started by a mother and her son for the joy of cooking together and a goal of bringing delicious family snacks recipes to a naturally inclined modern age.  We took our secret family snack recipes that we loved and decided to share them friends and local community.  We provide healthy alternatives by focusing on vegan and gluten free products.  We make junk food appealing for the modern age.
 mainpitch:
   title: >
   description: >
