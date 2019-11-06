@@ -62,5 +62,5 @@ pricing:
         - Shipping and taxes based upon location
         - Subscription upon request
       plan: Online
-      price: '3.99'
+      price: '4.75'
 ---
