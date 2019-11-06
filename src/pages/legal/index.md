@@ -3,7 +3,7 @@ templateKey: 'about-page'
 path: /legal
 title: Legal
 ---
-Date of Last Update: October 1, 2019
+Date of Last Update: November 1, 2019
 
 ### TERMS OF USE, PRIVACY POLICY AND RETURN GUIDANCE OVERVIEW
 This website, www.landjfamilyfoods.com is operated by L&J Family Foods, a 1UP Ventures (1UPVC) brand (the “Site”). Throughout the Site, the terms “L&J”,"LandJ" “1UPVC”, “L&J Family Foods”, “Junie”, "Junie's",“Junie’s Spicy Fritter”,"Junie's Ribbon Bits", "Ribbon Bits", "Junie's Bits", "Bits" "Our Bits", “Our Fritter”, “we”, “us” and “our” or other similar references refers to L&J Family Foods (includes L&J Foods) of the State of Virginia.  L&J Family Foods is affiliated brand of 1UP Ventures LLC.
