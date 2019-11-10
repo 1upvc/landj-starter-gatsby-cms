@@ -76,7 +76,7 @@ const Footer = class extends React.Component {
                       style={{ width: '1em', height: '1em' }}
                     />
                   </a>
-                  <a title="twitter" href="https://vimeo.com/landjfamilyfoods">
+                  <a title="vimeo" href="https://vimeo.com/landjfamilyfoods">
                   <img
                     className="fas fa-lg"
                     src={vimeo}
