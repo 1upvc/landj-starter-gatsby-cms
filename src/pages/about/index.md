@@ -22,6 +22,12 @@ Virginia's Finest Program - [Page](http://www.vdacs.virginia.gov/vafinest.com/)
 
 Vienna Business Association - [Page](https://viennabusiness.org/)
 
+<div id="mni-membership-637089667580635558"></div>
+<script src="https://viennabusiness.memberzone.com/Content/Script/Member.js" type="text/javascript"></script>
+<script type="text/javascript">
+new MNI.Widgets.Member("mni-membership-637089667580635558",{member:1059,styleTemplate:"#@id{text-align:center;position:relative}#@id .mn-widget-member-name{font-weight:700}#@id .mn-widget-member-logo{max-width:100%}"}).create();
+</script>
+
 Aditi Spice Depot (Vienna) - [Page](https://www.facebook.com/pages/Aditi-Spice-Depot/1481328148762323) | [Map](https://www.google.com/maps/placeAditi+Spice+Depot/@38.9070638,-77.2598884,17zdata=!3m1!4b1!4m5!3m4!1s0x89b64bb3821c54bb:0x473074061a342cf9!8m2!3d38.9070638!4d-77.2576997)
 
 Bards Alley - [Page](https://www.bardsalley.com/) | [Map](https://www.google.com/maps/place/Bards+Alley/@38.9017049,-77.2689972,17z/data=!3m1!4b1!4m5!3m4!1s0x89b64bc88a44ade7:0xd52cd391faf4f377!8m2!3d38.9017049!4d-77.2668085)
