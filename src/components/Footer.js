@@ -41,7 +41,7 @@ const Footer = class extends React.Component {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      ©2019 All Rights Reserved
+                      ©2019 L&J Family Foods
                     </a></li>
                     </ul>
                   </section>
