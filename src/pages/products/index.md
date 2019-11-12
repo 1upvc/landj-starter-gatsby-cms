@@ -49,7 +49,7 @@ pricing:
   description: >-
     We offer two ways to get your hands our delicious and lovable bits: In-Store and Online.
   plans:
-    - description: One the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
+    - description: On the shelf at a local store and you can explore our partners stores as well!  Explore our shop section.
       items:
         - Avg. Net wt. 2.5 oz (70.8g) per unit
         - Sales tax may apply dependent on state
