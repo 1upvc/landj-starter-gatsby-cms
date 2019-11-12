@@ -13,7 +13,7 @@ intro:
   blurbs:
     - image: /img/mother-son.png
       text: >
-        Through the love between mother and son, each all natural snack we create is based on that bond.  These are foods snacks that one mother made for her kids.
+        Through the love between mother and son, each all natural snack we create is based on that bond.  These are foods snacks that one amazing mother made for her kids.
     - image: /img/INDIAicon.png
       text: >
         There is a lot of interesting all natural vegan and gluten food snacks globally.  We aim to bring great tasting snacks to our local communities from our Indian heritage.
