@@ -58,9 +58,10 @@ pricing:
       price: 'By Vendor'
     - description: Online - Contact Us or Order Online (Coming soon in 2020).  See instructions under our shop section.
       items:
-        - Avg. Net wt. 2.5 oz (70.8g) per unit
+        - Avg. Net wt. 2.5 oz (70.8g) per package
+        - Each box comes with four (4) units
         - Shipping and taxes based upon location
-        - Subscription upon request
+
       plan: Online
-      price: '4.75'
+      price: '$19.99'
 ---
