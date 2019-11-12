@@ -11,12 +11,12 @@ mainpitch:
   description: >
 intro:
   blurbs:
+    - image: /img/mother-son.png
+      text: >
+        Through the love between mother and son, each all natural snack we create is inspired by our family style cooking and the snacks a mom made for her son. They have been brought to life for joyful sharing.
     - image: /img/INDIAicon.png
       text: >
         There is a lot of interesting all natural vegetarian and vegan food snacks globally to discover that bring joy and relief to every day.  We aim to bring great tasting snacks to local communities from India.
-    - image: /img/mother-son.png
-      text: >
-        Through the love between mother and son, each all natural snack is inspired by our family style cooking and the geographical region they originated from.  They have been brought to life for joyful consumption.
     - image: /img/mixingicon.png
       text: >
         We mix and prep with natural ingredients and cook without any additives. We strive to make each of our snacks vegan and gluten free with our best in class methods.
