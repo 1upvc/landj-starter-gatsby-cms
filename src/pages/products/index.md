@@ -55,7 +55,7 @@ pricing:
         - Sales tax may apply dependent on state
         - Availability dependent on vendor inventory
       plan: Local Store
-      price: 'By Vendor'
+      price: 'By Vendor By Location'
     - description: Online - Contact Us or Order Online (Coming soon in 2020).  See instructions under our shop section.
       items:
         - Avg. Net wt. 2.5 oz (70.8g) per package
