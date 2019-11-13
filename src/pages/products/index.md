@@ -26,7 +26,7 @@ intro:
 main:
   heading: Vegan and gluten free ribbon bits for the modern age.
   description: >
-    We strived to make the best ribbon bits and made in the USA.  Our ingredients include the following Rice Flour, Gram Flour, Canola Oil, Red Chili Powder, Salt and Water.
+    We strived to make the best ribbon bits and made in the USA.  Our ingredients include the following Rice Flour, Gram Flour, Oil, Red Chili Powder, Salt and Water.
   image1:
     alt: fryingbits1
     image: /img/fryingbits1.jpg
