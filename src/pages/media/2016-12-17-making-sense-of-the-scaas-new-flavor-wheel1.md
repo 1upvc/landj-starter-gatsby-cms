@@ -12,8 +12,7 @@ tags:
 
 ![article2](/img/article2.jpg)
 
-Snack manufacturers in India have been advised to take a health and wellness and localisation approach to snack production to appeal to local consumers.  "Brands can tap into this by offering snacks that provide indulgences along with health and taste in today's world"... To continue reading this article, please navigate [here](https://www.foodnavigator-asia.com/Article/2019/04/16/Tackling-the-taste-health-paradox-Indian-snack-manufacturers-advised-to-focus-on-health-nutrition-and-Indian-ness?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright).
-
+Snack manufacturers in India have been advised to take a health and wellness and localisation approach to snack production to appeal to local consumers.  "Brands can tap into this by offering snacks that provide indulgences along with health and taste in today's world".  Data revealed that 46% of grocery shoppers preferred local branads over global ones... To continue reading this article, please navigate [here](https://www.foodnavigator-asia.com/Article/2019/04/16/Tackling-the-taste-health-paradox-Indian-snack-manufacturers-advised-to-focus-on-health-nutrition-and-Indian-ness?utm_source=copyright&utm_medium=OnSite&utm_campaign=copyright).
 
 
 Written By - Pearly Neo; Image Credit - Getty Images
