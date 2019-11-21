@@ -26,7 +26,7 @@ export default class BlogIndexPage extends React.Component {
                     padding: '1rem',
                   }}
                 >
-                  Quarterly Reads
+                  Related Reads
                 </h1>
               </div>
             </div>
