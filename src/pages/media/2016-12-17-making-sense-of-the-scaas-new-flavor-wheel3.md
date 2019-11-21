@@ -18,7 +18,7 @@ To continue reading this article, please navigate [here](https://csnews.com/repo
 
 To find the State of Snacking 2019 report mentioned, please explore this report further [here](https://www.stateofsnacking.com/wp-content/uploads/2019/11/2019_MDLZ_stateofsnacking_report_GLOBAL_EN.pdf).
 
-Written By - Convenience Store News;
+Written By - Convenience Store News
 
 ## What the updates mean to you
 
