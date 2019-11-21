@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Report: Snacks Are Helping Lead the Future of Food
+title: Snacks Are Helping Lead the Future of Food
 date: 2019-11-18T11:34:46Z
 description: Global snacking is on the rise as more consumers opt for snacks over meals to fulfill evolving needs.
 tags:
