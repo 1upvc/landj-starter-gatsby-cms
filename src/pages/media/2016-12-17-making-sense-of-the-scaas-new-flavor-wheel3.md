@@ -10,7 +10,7 @@ tags:
   - Lifestyle
 ---
 
-![article4](/img/stateofsnacking.jpg)
+![article4](/img/stateofsnacking.jpeg)
 
 Global snacking is on the rise as more consumers opt for snacks over meals to fulfill evolving needs, and that is helping lead the future of food.  According to Mondelez International's first-ever State of Snacking report, six in 10 adults worldwide (59 percent) said they prefer to eat many small meals throughout the day, as opposed to a few larger ones, with younger consumers especially leaning into snacks over meals as that number rises to seven in 10 among millennials (70 percent)...A few facts - People are more commonly considering how smaller bites/snacks effect their emotional wellbeing, as well as their physical health.  80 percent of consumers are looking for healthy, balanced bites, while 71 of adults say snacking helps them control their hunger and manage their calories throughout the day. The majority of people say snacks are just as important to their mental (71 percent) and emotional (70 percent) wellbeing as their physical wellbeing.  Seven in 10 adults make an effort to share their favorite childhood snacks with others (70 percent).  Dirk Van de Put, chairman and CEO of Mondelez International, indicated "We see that the average global adult now eats more snacks than meals on a given day, driven by a number of evolving demands largely associated with how we live today, including a growing need for convenience, yearning to share nostalgic and cultural experiences, expanded wellbeing preferences and the desire for choices that range from wholesome to indulgent."  To explore the State of Snacking data further, please navigate [here](https://www.stateofsnacking.com/).  
 
