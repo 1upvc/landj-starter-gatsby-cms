@@ -63,5 +63,5 @@ pricing:
         - Shipping and taxes based upon location
 
       plan: Online
-      price: '4 Bits for $19.99'
+      price: '19.99 for 4 packs'
 ---
